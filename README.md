@@ -67,7 +67,9 @@ http://127.0.0.1:5000
 ```
 quran-guidance-ai/
 │
-├── app.py          # Flask backend + embedded HTML frontend (everything is here)
+├── app.py   # Flask backend + embedded HTML frontend (everything is here)
+├── agent.py # Without frontend
+├── LICENSE  # MIT License      
 └── README.md
 ```
 
@@ -124,6 +126,6 @@ The AI's personality and scope are defined by `SYSTEM_PROMPT` in `app.py`. Edit 
 
 ---
 
-## License
+## Author
 
-MIT — free to use, modify, and distribute.
+Haroon Khalid

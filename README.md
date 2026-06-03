@@ -1,4 +1,4 @@
-# ☽ Quranic Guidance AI
+# Quranic Guidance AI
 
 A conversational Islamic knowledge assistant with a clean dark-themed web UI, powered by **LLaMA 3** via OpenRouter. Ask questions about the Quran, Sunnah, Fiqh, Aqeedah, Seerah, and more — with full conversation memory per session.
 
@@ -124,8 +124,3 @@ The AI's personality and scope are defined by `SYSTEM_PROMPT` in `app.py`. Edit 
 - Each browser tab gets its own independent session
 - The app runs locally on your machine; nothing is stored or sent anywhere except to OpenRouter
 
----
-
-## Author
-
-Haroon Khalid
